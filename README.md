@@ -1,1 +1,1 @@
-# lxqt_in_codespace
+# desktop_in_codespace
